@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:16.7.7-ce.0
+gitlab/gitlab-ce:17.0.3-ce.0
